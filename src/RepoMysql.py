@@ -73,6 +73,7 @@ class RepoMysql:
         else:
             print 'output db successfully'
                  
+    #输出时间多次出现，是否可用装饰器进行替换？
     def collectInfo(self):
         myself = PersonalInfo(self.userID,self.spider,self.userID)
         self.peopleList.append(myself.work())

@@ -1,5 +1,8 @@
 # RenRenDownload
 ***
+####相关博客
+[一个人人网python爬虫](http://www.jianshu.com/p/b7e596ba3b77)
+
 ####功能说明：
 下载人人网上和自己相关的信息：
 

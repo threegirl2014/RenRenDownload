@@ -68,6 +68,7 @@ class PersonalInfo:
             icode = raw_input('please input validation code：')
             data = {
                     'id' : self.ownerID,
+                    #人人网使用utf-8
                     'submit' : u'继续浏览'.encode('utf-8'),
                     'icode' : icode
                     }
