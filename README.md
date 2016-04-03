@@ -3,6 +3,12 @@
 ####相关博客
 [一个人人网python爬虫](http://www.jianshu.com/p/b7e596ba3b77)
 
+####环境依赖
+mac os x 10.11.3 （其他操作系统没有验证是否可用）
+python 2.7.10
+bs4.BeautifulSoup
+
+
 ####功能说明：
 下载人人网上和自己相关的信息：
 
