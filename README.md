@@ -5,7 +5,9 @@
 
 ####环境依赖
 mac os x 10.11.3 （其他操作系统没有验证是否可用）
+
 python 2.7.10
+
 bs4.BeautifulSoup
 
 
